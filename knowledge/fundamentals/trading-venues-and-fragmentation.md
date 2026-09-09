@@ -80,3 +80,5 @@ S001, S004, S007: metadata and exact review scope are in the [source register](.
 ## Research Notes
 
 HYPOTHESIS H001: discrepancies persist more often when capital mobility is constrained. Future work should distinguish inaccessible prices from simultaneous executable quotes, fees and inventory costs. Search for periods or venues where gaps disappear. No current-market inference or arbitrage strategy specification is made.
+
+[Back to knowledge index](../INDEX.md)

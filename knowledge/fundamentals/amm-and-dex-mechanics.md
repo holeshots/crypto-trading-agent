@@ -82,3 +82,5 @@ S004 and S005; see the [source register](../../research/sources/market-mechanics
 ## Research Notes
 
 Future gaps: version-specific fees, transaction ordering, finality, token behavior and route simulation. These are not resolved by this introductory batch. The glossary also mixes an individual-pool description with v4's singleton description; use version-specific architecture documentation before implementation.
+
+[Back to knowledge index](../INDEX.md)

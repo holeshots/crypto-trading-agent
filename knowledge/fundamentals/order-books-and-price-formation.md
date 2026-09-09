@@ -84,3 +84,5 @@ STRONG for explicitly scoped definitions and documented mechanics, UNKNOWN for d
 CONFLICT C001: S002 describes price-time priority; S001 sections 1.71–1.72 specify price-display-time and hidden iceberg treatment. Both prioritize price, but only the latter covers displayed versus hidden interest. Possible reason: simplified or unevenly updated documentation. Preserve both; obtain venue clarification before later queue modeling.
 
 CONFLICT C002: S008 announces removal of several size fields while following prose still describes them. Use neither prose nor examples as a timeless schema. Later work needs dated schema/changelog reconciliation. This review has not called a market endpoint.
+
+[Back to knowledge index](../INDEX.md)

@@ -94,3 +94,5 @@ CONFLICT C003, NEEDS_REVIEW:
 Counterevidence to “DEX swaps are costless” or “a fixed basis-point estimate fits all sizes”: S006's reported cost heterogeneity. It does not refute or validate any trading strategy.
 
 HYPOTHESIS H002: observed depth and quote age may explain execution shortfall better than candle volume alone. Future evaluation must separate size, venue, latency and regime; test across held-out periods and include failed/unfilled orders. No parameters are optimal or selected here.
+
+[Back to knowledge index](../INDEX.md)
